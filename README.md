@@ -31,4 +31,10 @@
 
 ### 📊 GitHub Stats
 
-![Rajesh GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshparimi22&show_icons=true)
+<p align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshparimi22&layout=compact&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeshparimi22&show_icons=true&theme=tokyonight"/>
+
+</p>

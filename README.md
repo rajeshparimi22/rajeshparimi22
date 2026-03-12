@@ -15,7 +15,8 @@
 
 ### 🌐 Connect with me
 
-[LinkedIn]  https://www.linkedin.com/in/rajesh-parimi-897517276/ 
+[LinkedIn]  https://www.linkedin.com/in/rajesh-parimi-897517276/
+
 [GitHub]   https://github.com/rajeshparimi22
 
 ---
@@ -28,8 +29,9 @@
 
 <p align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshparimi22&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshparimi22&layout=compact&theme=tokyonight"/>    
 
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeshparimi22&show_icons=true&theme=tokyonight"/>
 
 </p>

@@ -25,11 +25,6 @@
 <img src="https://skillicons.dev/icons?i=java,react,html,css,js,docker,aws,mysql,git,github,vscode" />
 
 ---
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshparimi22&layout=compact)
-
-### 📊 GitHub Stats
 
 <p align="center">
   

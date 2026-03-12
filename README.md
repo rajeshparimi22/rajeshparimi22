@@ -13,14 +13,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-[LinkedIn]  https://www.linkedin.com/in/rajesh-parimi-897517276/
-
-[GitHub]   https://github.com/rajeshparimi22
-
----
-
 ### 🚀 Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=java,react,html,css,js,docker,aws,mysql,git,github,vscode" />

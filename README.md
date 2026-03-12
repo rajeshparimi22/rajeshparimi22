@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajesh Parimi</h1>
 
-<!--
-**rajeshparimi22/rajeshparimi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer from India
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **React & Spring Boot**
+- 🔭 Working on **Web Development Projects**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript**
+- 📫 Reach me at: **rajeshparimi22@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me
+
+[LinkedIn](https://linkedin.com)  
+[GitHub](https://github.com/rajeshparimi22)
+
+---
+
+### 🚀 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,mysql,git,github,vscode" />
+
+---
+
+### 📊 GitHub Stats
+
+![Rajesh GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshparimi22&show_icons=true)

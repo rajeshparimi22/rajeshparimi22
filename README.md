@@ -2,9 +2,6 @@
 
 ### 💻 Full Stack Developer from India
 ## 🚀 About Me
-
-💻 Full Stack Developer from India  
-
 🌱 Currently Exploring
 - 🤖 **Agent AI**
 - ⚙️ **DevOps**
